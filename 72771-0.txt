@@ -1,4 +1,3 @@
-
 The Sea Mystery
 
 by Freeman Wills Crofts
@@ -3331,12 +3330,12 @@ Mr. Berlyn seem upset about it?”
 “No good for us, Sergeant. Now about these others. Mr. Pyke was not
 married, was he?”
 
-No, Mr. Pyke was not married, nor were Mr. Cowls nor Mr. Samuel nor
+“No, Mr. Pyke was not married, nor were Mr. Cowls nor Mr. Samuel nor
 Mr. Leacock, other young men about the works with whom Mrs. Berlyn had
 seemed on good terms. Mr. Pyke had been with the firm for several
 years and was said to be highly thought of. He was pleasant-mannered
 and jolly and a general favourite. He lodged in the town; in fact, his
-rooms were nearly opposite the hotel.
+rooms were nearly opposite the hotel.”
 
 “Is Mrs. Berlyn still here?”
 
@@ -9141,3 +9140,4 @@ This transcription follows the text of the first edition published by
 Harper & Brothers Publishers in 1928. A later Penguin Books edition
 was also used to provide corrections to unambiguous errors in the
 original.
+
